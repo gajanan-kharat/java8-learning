@@ -1,0 +1,9 @@
+Example 2: transform a list of employees into their salary values using the Function<Employee, Double> interface. 
+Name    salary     
+alice   50000
+bob     75000
+charlie 60000
+
+
+
+
