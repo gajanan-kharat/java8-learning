@@ -2,6 +2,7 @@ package SuppilerInterface;
 
 import java.util.Random;
 import java.util.function.Supplier;
+//Wap to print random number;
 
 public class Suppilerexample {
     public static void main(String[] args) {
