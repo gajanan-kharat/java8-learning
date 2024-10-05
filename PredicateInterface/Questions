@@ -1,0 +1,26 @@
+question.no.01
+Example 1:  Create a Java program that manages a list of employees and filters them based on specific criteria such as age and department using Predicate<Employee>.
+Name     Age  Department
+Alice    30   HR
+Bob      45   IT
+Charlie  25   Finance
+Diana    50   IT
+
+Q.1: Print a list of employees who are older than 30 years.
+Q.2: Print a list of employees who work in the IT department.
+Q.3: Print a list of employees who are older than 40 and work in the IT department.
+
+Question.no.02
+Example 2:  Create a Java program that manages a list of employees and filters them based on specific criteria such as age and department using BiPredicate<Employee>.
+
+Name     Salary  Department
+Alice    50000   HR
+Bob      80000   IT
+Charlie  60000   Finance
+Diana    90000   IT
+
+Q.1: Print a list of employees who belong to IT and have a salary above 75,000
+
+
+
+
